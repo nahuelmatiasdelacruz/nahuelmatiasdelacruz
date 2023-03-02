@@ -1,7 +1,7 @@
 <h1 align="center">Hola! 👋 Soy Nahuel De La Cruz!</h1>
 <h3 align="center">Apasionado por el mundo de la informática / desarrollo</h3>
 
-- Podes ver todos mis proyectos en mi perfil: [https://github.com/nahuelmatiasdelacruz](https://github.com/nahuelmatiasdelacruz)
+- Podes ver todos mis proyectos en mi perfil: [https://github.com/nahuelmatiasdelacruz?tab=repositories](https://github.com/nahuelmatiasdelacruz?tab=repositories)
 
 - Contacto vía mail: **nahueldelacruz9@gmail.com**
 
