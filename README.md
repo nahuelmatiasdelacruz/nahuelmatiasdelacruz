@@ -1,6 +1,8 @@
 <h1 align="center">Hola! 👋 Soy Nahuel De La Cruz</h1>
 <h3 align="center">Desarrollador FullStack apasionado por la tecnología</h3>
 
+- 👨‍💻 Actualmente trabajo como desarrollador freelance y como Software Engineer en [FK {Tech}](https://www.fktech.net/es/)
+
 - 🏛️ Mi proyecto freelance mas grande es un [sistema de gestión de ingresos para la cámara de diputados de la nación](https://github.com/nahuelmatiasdelacruz/ascensores-diputados)
 
 - 📝 Llevo a cabo también otro proyecto freelance que consiste en un [sistema de generación de PDF y automatización de facturación para clientes](https://github.com/nahuelmatiasdelacruz/gestion-facturacion-gema)
