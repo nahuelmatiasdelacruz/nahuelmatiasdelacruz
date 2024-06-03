@@ -9,7 +9,7 @@
 
 - 👨‍💻 Podes encontrar todos mis proyectos en GitHub: [https://github.com/nahuelmatiasdelacruz?tab=repositories](https://github.com/nahuelmatiasdelacruz?tab=repositories)
 
-- 📫 Contactame por email a: **nahueldelacruz9@gmail.com**
+- 📫 Contactame por email a: **nahueldelacruz9@gmail.com** o **nahuel.delacruz@outlook.com**
 
 - 📄 Podes ver mi experiencia laboral en LinkedIn: [https://www.linkedin.com/in/nahuel-de-la-cruz/](https://www.linkedin.com/in/nahuel-de-la-cruz/)
 
