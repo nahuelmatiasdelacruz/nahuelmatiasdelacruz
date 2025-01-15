@@ -9,7 +9,7 @@
 
 - 👨‍💻 You can find all my projects on GitHub: [https://github.com/nahuelmatiasdelacruz?tab=repositories](https://github.com/nahuelmatiasdelacruz?tab=repositories)
 
-- 📫 You can contact me to my eMail: **nahueldelacruz9@gmail.com** or **nahuel.delacruz@outlook.com**
+- 📫 You can contact me here: **nahueldelacruz9@gmail.com** or **nahuel.delacruz@outlook.com**
 
 - 📄 You can find my employment history on: [https://www.linkedin.com/in/nahuel-de-la-cruz/](https://www.linkedin.com/in/nahuel-de-la-cruz/)
 
