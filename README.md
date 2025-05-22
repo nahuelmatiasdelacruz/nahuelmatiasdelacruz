@@ -1,7 +1,8 @@
 <h1 align="center">Hello! 👋 I'm Nahuel De La Cruz</h1>
 <h3 align="center">Full Stack Developer passionate by technology</h3>
+<h3 align="center">Indie Game Dev with Unity</h3>
 
-- 👨‍💻 Currently I'm working as Software Engineer at [FK {Tech}](https://www.fktech.net/es/) and as Freelance developer 
+- 👨‍💻 Currently I'm working as Packaged App Development Analyst at [Accenture](https://www.accenture.com/ar-es) and as Freelance developer
 
 - 🏛️ My biggest freelance project is a public employee management system for the National Chamber of Deputies. Built with ReactJS and Material-UI, Node.js, Express.js, JWT authentication, and BcryptJS. Database implemented with PostgreSQL and Knex.js
 
